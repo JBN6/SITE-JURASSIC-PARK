@@ -1,0 +1,43 @@
+.container {
+    border: 2px solid black; 
+    overflow: auto;      
+}
+.imagem {
+    margin: 10px 10px 10px 10px;
+    float: left; 
+    border: 2px solid black;
+}
+.imagem02 {
+    margin: 10px 10px 10px 10px;
+    float:left;
+    border: 2px solid black;
+}
+.imagem03 {
+    margin: 10px 10px 10px 10px;
+    float:right;
+    border: 2px solid black;
+}
+.imagem04,.imagem05,.imagem06 {
+    
+    margin: 10px 100px 10px 100px;
+    border: 2px solid black
+}
+
+.imagem06:hover{
+    opacity: 0.2;
+}
+.imagem05:hover{
+    opacity: 0.2;
+}
+.imagem04:hover{
+    opacity: 0.2;
+}
+footer{
+    border: 2px solid black;
+}
+.texto{
+    margin: 10px 220px 10px 220px;
+    border-style: solid;
+    border-width: 2px;
+
+}
